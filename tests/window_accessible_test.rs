@@ -1,2 +1,2 @@
-use winit::event_loop::EventLoop;
+// Slint migration: all imperative event loop tests removed.
 

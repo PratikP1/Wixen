@@ -6,5 +6,3 @@ src\lib.rs:
 src\constants.rs:
 src\event_handler.rs:
 src\handlers.rs:
-
-# env-dep:CARGO_PKG_VERSION=0.1.0
