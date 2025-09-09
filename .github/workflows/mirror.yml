@@ -1,0 +1,25 @@
+name: Mirror to GitHub
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Push to mirror
+        env:
+          MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+        run: |
+          git remote add mirror https://x-access-token:${MIRROR_TOKEN}@github.com/<your-username>/<mirror-repo>.git
+          git push mirror --mirror

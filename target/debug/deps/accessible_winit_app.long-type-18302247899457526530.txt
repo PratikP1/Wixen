@@ -1,0 +1,1 @@
+MyDeactivationHandler: accesskit::DeactivationHandler
