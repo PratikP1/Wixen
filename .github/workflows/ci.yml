@@ -8,6 +8,7 @@ on:
 
 jobs:
   build:
+<<<<<<< HEAD
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
@@ -25,5 +26,17 @@ jobs:
       - name: Run clippy
         if: ${{ matrix.os == 'windows-latest' || matrix.os == 'macos-latest' }}
         run: cargo clippy --all-targets --all-features -- -D warnings
+=======
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Rust
+        uses: actions/setup-rust@v1
+        with:
+          rust-version: stable
+      - name: Build
+        run: cargo build --verbose
+>>>>>>> 9807625f556957a6f85e7a2f529f3093b3bd2567
       - name: Run tests
         run: cargo test --verbose

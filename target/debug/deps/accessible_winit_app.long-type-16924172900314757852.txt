@@ -1,0 +1,1 @@
+fn(_) -> winit::keyboard::Key<_> {winit::keyboard::Key::<_>::Character}

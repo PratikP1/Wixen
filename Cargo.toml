@@ -1,0 +1,16 @@
+[package]
+name = "wixen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winapi = { version = "0.3", features = ["winuser", "libloaderapi"] }
+winit = "0.30"
+accesskit_winit = "0.29"
+widestring = "0.5"
+accesskit = "0.21"
+
+[lib]
+name = "wixen"
+path = "src/lib.rs"
+
