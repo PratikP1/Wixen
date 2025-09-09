@@ -216,7 +216,7 @@ fn build_accessibility_tree(state: &AppState) -> TreeUpdate {
 
     // Window root node
     let mut window_node = Node::new(Role::Window);
-    window_node.set_label("Accessible Winit App Window");
+    window_node.set_label("Wixen");
     window_node.set_children(vec![menubar_id, list_id]);
     // Announce window title
     window_node.set_live(accesskit::Live::Polite);
