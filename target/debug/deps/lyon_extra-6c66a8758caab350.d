@@ -1,0 +1,8 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\lyon_extra-6c66a8758caab350.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\liblyon_extra-6c66a8758caab350.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs:

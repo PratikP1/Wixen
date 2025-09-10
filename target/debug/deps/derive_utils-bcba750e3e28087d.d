@@ -1,0 +1,10 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\derive_utils-bcba750e3e28087d.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\libderive_utils-bcba750e3e28087d.rlib: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\libderive_utils-bcba750e3e28087d.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs:

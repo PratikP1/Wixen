@@ -1,1 +1,0 @@
-Box<dyn DeactivationHandler>: accesskit::DeactivationHandler

@@ -1,0 +1,10 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\thiserror-eca4f56906ae2006.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\libthiserror-eca4f56906ae2006.rlib: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\libthiserror-eca4f56906ae2006.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs:

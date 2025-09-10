@@ -1,0 +1,10 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\lyon_extra-0b1faf43ffe43a7d.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\liblyon_extra-0b1faf43ffe43a7d.rlib: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\liblyon_extra-0b1faf43ffe43a7d.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\debugging.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\parser.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lyon_extra-1.0.3\src\rust_logo.rs:

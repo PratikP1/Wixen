@@ -1,0 +1,10 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\bitstream_io-369ef437ce1f8862.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\huffman.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\read.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\write.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\libbitstream_io-369ef437ce1f8862.rlib: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\huffman.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\read.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\write.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\libbitstream_io-369ef437ce1f8862.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\huffman.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\read.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\write.rs
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\huffman.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\read.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-2.6.0\src\write.rs:

@@ -1,0 +1,18 @@
+export global TestArrays {
+    property <array<string>> names;
+    property <array<color>> colors;
+
+    names = ["One", "Two", "Three"];
+    colors = [#ff0000, #00ff00, #0000ff];
+}
+
+export component MinimalArrayWindow inherits Window {
+    Rectangle {
+        width: 300px;
+        height: 100px;
+        Text {
+            text: TestArrays.names[0];
+            color: TestArrays.colors[0];
+        }
+    }
+}

@@ -1,0 +1,8 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\i_slint_backend_qt-30d4cb0ed497c1fb.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\accessible_generated.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\key_generated.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\README.md
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\libi_slint_backend_qt-30d4cb0ed497c1fb.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\accessible_generated.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\key_generated.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\README.md
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\accessible_generated.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\key_generated.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\i-slint-backend-qt-1.13.0\README.md:

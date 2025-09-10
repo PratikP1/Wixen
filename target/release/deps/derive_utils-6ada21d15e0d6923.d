@@ -1,0 +1,10 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\derive_utils-6ada21d15e0d6923.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\libderive_utils-6ada21d15e0d6923.rlib: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\release\deps\libderive_utils-6ada21d15e0d6923.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\error.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\ast.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_utils-0.15.0\src\parse.rs:

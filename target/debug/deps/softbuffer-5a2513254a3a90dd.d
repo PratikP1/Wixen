@@ -1,0 +1,14 @@
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\softbuffer-5a2513254a3a90dd.d: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backend_dispatch.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backend_interface.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backends\mod.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backends\win32.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\util.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\../README.md
+
+C:\Users\Pratik Patel\Documents\Rust apps\Wixen\target\debug\deps\libsoftbuffer-5a2513254a3a90dd.rmeta: C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\lib.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backend_dispatch.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backend_interface.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backends\mod.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backends\win32.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\error.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\util.rs C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\../README.md
+
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\lib.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backend_dispatch.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backend_interface.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backends\mod.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\backends\win32.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\error.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\util.rs:
+C:\Users\Pratik\ Patel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\softbuffer-0.4.6\src\../README.md:
+
+# env-dep:CARGO_PKG_VERSION=0.4.6

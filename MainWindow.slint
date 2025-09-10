@@ -1,0 +1,161 @@
+// Visual Settings Section
+export component VisualSettings inherits Rectangle {
+    accessible-role: "group";
+    accessible-name: "Visual Settings";
+    width: 300px;
+    height: 120px;
+    background: ColorPalettes.secondary[ColorPalettes.selected];
+    border-radius: 8px;
+    property <int> focused_index: 0;
+    // Label (not focusable, associated with ComboBox)
+    Text {
+        accessible-role: "label";
+        accessible-name: "Color Palette Label";
+        text: "Color Palette:";
+        x: 16px; y: 16px;
+        color: ColorPalettes.primary[ColorPalettes.selected];
+    }
+    // ComboBox
+    ComboBox {
+        accessible-role: "combobox";
+        accessible-name: "Color Palette Selector";
+        accessible-description: ColorPalettes.descriptions[ColorPalettes.selected];
+        x: 120px; y: 12px; width: 160px;
+        model: ColorPalettes.names;
+        current-index: ColorPalettes.selected;
+    on-selected => { ColorPalettes.selected = current-index; };
+        focusable: true;
+        focused: parent.focused_index == 0;
+        on-key-pressed => {
+            if (event.key == "Tab" && !event.shift) { parent.focused_index = 1; event.accepted = true; }
+            if (event.key == "Tab" && event.shift) { parent.focused_index = 1; event.accepted = true; }
+        }
+    }
+    // Description (not focusable, purely visual)
+    Text {
+        accessible-role: "none";
+        text: ColorPalettes.descriptions[ColorPalettes.selected];
+        x: 16px; y: 48px; width: 268px;
+        color: ColorPalettes.primary[ColorPalettes.selected];
+        wrap: true;
+    }
+}
+// Accessible color palettes
+export global ColorPalettes {
+    property <int> selected;
+    property [string] names;
+    property [string] descriptions;
+    property [color] primary;
+    property [color] secondary;
+    property [color] accent;
+
+    names = [
+        "Classic Blue",
+        "Solarized Light",
+        "Solarized Dark",
+        "High Contrast",
+        "Forest",
+        "Sunset",
+        "Ocean",
+        "Rose",
+        "Slate",
+        "Mint"
+    ];
+    descriptions = [
+        "Classic accessible blue and white palette.",
+        "Solarized light theme, soft and readable.",
+        "Solarized dark theme, high readability.",
+        "Black and yellow, maximum contrast.",
+        "Greens and browns, nature inspired.",
+        "Warm oranges and purples, sunset feel.",
+        "Blues and teals, oceanic vibe.",
+        "Pinks and grays, gentle and modern.",
+        "Cool grays and blues, professional.",
+        "Fresh mint and navy, energetic."
+    ];
+    primary = [
+        #1976d2, #268bd2, #073642, #000000, #388e3c, #ff7043, #0288d1, #e91e63, #607d8b, #00bfae
+    ];
+    secondary = [
+        #ffffff, #fdf6e3, #002b36, #ffd600, #a1887f, #ab47bc, #80cbc4, #f8bbd0, #90a4ae, #263238
+    ];
+    accent = [
+        #ff4081, #b58900, #b58900, #ffffff, #cddc39, #ffb300, #ffab00, #c51162, #00bcd4, #ffd600
+    ];
+}
+
+// Usage example:
+// Rectangle {
+//     background: ColorPalettes.primary[ColorPalettes.selected];
+// }
+
+import {
+    Button, CheckBox, RadioButton, Slider, SpinBox, Switch, TabWidget, TextInput,
+    ProgressBar, ScrollView, GroupBox, Menu, MenuItem, ListView, TreeView,
+    ComboBox, Label, Frame, Dialog, Window
+} from "std-widgets";
+
+export component MainWindow inherits Window {
+    title: "Wixen";
+    Rectangle {
+        width: parent.width;
+        height: parent.height;
+        // Focus management state
+        property <int> focused_index: 0;
+        // Column 1
+        Text {
+            accessible-role: "label";
+            accessible-name: "Column 1: Mastodon Timeline";
+            y: 10px;
+            focusable: true;
+            focused: parent.focused_index == 0;
+            on-key-pressed => {
+                if (event.key == "Tab" && !event.shift) { parent.focused_index = 1; event.accepted = true; }
+                if (event.key == "Tab" && event.shift) { parent.focused_index = 3; event.accepted = true; }
+            }
+        }
+        // Column 2
+        Text {
+            accessible-role: "label";
+            accessible-name: "Column 2: Bluesky Feed";
+            y: 40px;
+            focusable: true;
+            focused: parent.focused_index == 1;
+            on-key-pressed => {
+                if (event.key == "Tab" && !event.shift) { parent.focused_index = 2; event.accepted = true; }
+                if (event.key == "Tab" && event.shift) { parent.focused_index = 0; event.accepted = true; }
+            }
+        }
+        // Column 3
+        Text {
+            accessible-role: "label";
+            accessible-name: "Column 3: RSS Feed";
+            y: 70px;
+            focusable: true;
+            focused: parent.focused_index == 2;
+            on-key-pressed => {
+                if (event.key == "Tab" && !event.shift) { parent.focused_index = 3; event.accepted = true; }
+                if (event.key == "Tab" && event.shift) { parent.focused_index = 1; event.accepted = true; }
+            }
+        }
+        // Settings Button
+        Rectangle {
+            accessible-role: "button";
+            accessible-name: "Settings Button";
+            x: 0px; y: 110px; width: 120px; height: 32px;
+            background: #e0e0e0;
+            border-radius: 6px;
+            focusable: true;
+            focused: parent.focused_index == 3;
+            on-key-pressed => {
+                if (event.key == "Tab" && !event.shift) { parent.focused_index = 0; event.accepted = true; }
+                if (event.key == "Tab" && event.shift) { parent.focused_index = 2; event.accepted = true; }
+            }
+            Text {
+                accessible-role: "label";
+                accessible-name: "Settings Button Label";
+                text: "Settings"; x: 20px; y: 6px; color: #333;
+            }
+        }
+    }
+}

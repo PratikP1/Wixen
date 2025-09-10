@@ -1,0 +1,56 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-release:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [windows-latest, macos-latest]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          profile: minimal
+          override: true
+      - name: Build release binary
+        run: cargo build --release
+      - name: Upload release binary
+        uses: actions/upload-artifact@v3
+        with:
+          name: wixen-${{ matrix.os }}
+          path: target/release/wixen.exe
+        if: matrix.os == 'windows-latest'
+      - name: Upload release binary
+        uses: actions/upload-artifact@v3
+        with:
+          name: wixen-${{ matrix.os }}
+          path: target/release/wixen
+        if: matrix.os == 'macos-latest'
+
+  create-release:
+    needs: build-release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Download artifacts
+        uses: actions/download-artifact@v3
+        with:
+          path: ./artifacts
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: Release ${{ github.ref_name }}
+          generate_release_notes: true
+          files: |
+            artifacts/wixen-windows-latest/wixen.exe
+            artifacts/wixen-macos-latest/wixen
+            README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,7 @@
+{
+  "list_page_step": 25,
+  "mastodon_access_token_desc": "Mastodon API access token (stored securely)",
+  "bluesky_access_token_desc": "Bluesky API access token (stored securely)",
+  "rss_username_desc": "RSS feed username (stored securely)",
+  "rss_password_desc": "RSS feed password (stored securely)"
+}
